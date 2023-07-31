@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Max Spahn's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Max Spahn
+Robotoscist, Programmer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,43 +13,28 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+PhD Candidate at Delft University of Technology:
+
+Trajectory Generation for high-dimensional robots in dynamic environments.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Geometric Approaches to Motion Planning
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Trajectory Generation in Dynamic Environments and Mobile Manipulators
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2019`
+__RWTH Aachen__, Mechanical Engineering (B.Sc. and M.Sc)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2017`
+__École Centrale Supéléc Paris__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2020-2024`
+__Delft University of Technology__, PhD. in Robotics
 
 ## Publications
 
@@ -65,23 +50,7 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Repositories and Projects
 
 
 <!-- ### Footer
