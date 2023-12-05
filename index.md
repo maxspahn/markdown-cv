@@ -8,36 +8,30 @@ title: Max Spahn's CV
 
 
 <div id="webaddress">
-<a href="m.spahn@tudelft.nl">m.spahn@tudelft.nl</a>
+<a href="max.spahn@protonmail.com">max.spahn@protonmail.com</a>
 | <a href="https://www.linkedin.com/in/max-spahn/">LinkedIn</a>
-| <a href="https://www.github.com/maxspahn">GitHub</a><br>
+| <a href="https://www.github.com/maxspahn">GitHub</a>
+| <a href="https://scholar.google.com/citations?user=r5MT42cAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
 De Groene Haven 166, 2627CD, Delft, Netherlands | +49(0)15788221336
 </div>
 
 ## Currently
 
-__PhD Candidate__ at Delft University of Technology:
+__PhD Candidate__ (Graduation 2024) at Delft University of Technology
 
 trajectory generation for high-dimensional robots
 
 ### Specialized in
 
 - numerical __optimization__
-- differential geometry
 - __robotics software__
-- open-source software
-
-### Interests
-
-- online __trajectory generation__
+- real-time __trajectory generation__
 - robots in __human-shared environments__
-- model-predictive control
-
 
 ## Education
 
 `2013-2019`
-__RWTH Aachen__, Mechanical Engineering (B.Sc. and M.Sc)
+__RWTH Aachen__, Mechanical Engineering, B.Sc. and M.Sc
 
 `2015-2017`
 __École Centrale Supéléc Paris__, M.Sc.
@@ -45,17 +39,15 @@ __École Centrale Supéléc Paris__, M.Sc.
 `2020-2024`
 __Delft University of Technology__, PhD. in Robotics
 
-## Skills
 ### Languages
-- fluent in __german__
-- fluent in __english__
-- intermediate in french
-- intermediate in dutch
+- fluent in __german__, __english__
+- intermediate in french, dutch
 
 ### Programming
 - main programming language during PhD __python__
 - strong experience in __ROS__ (noetic, melodic)
-- experienced in __C++__, __LaTeX__, bash, Matlab
+- experienced in __C++__, LaTeX, bash, Matlab
+- currently learning Rust
 
 ## Conferences
 
@@ -86,17 +78,30 @@ C. Meo, G. Franzese, C. Pezzato, __M. Spahn__, P. Lanillos: "Adaptation through 
 `2020`
 M. Frings, N. Hosters, C. Müller, __M. Spahn__, C. Susen, K. Key, S. Elgeti: SplinLib: A modern multi-purpose C++ spline library", 2020, Advances in Engineering Software
 
+## Competitions
 
-## Repositories and Projects
+`2023`
+robothon 2023, Platonics Delft, [https://platonics-delft.github.io](https://platonics-delft.github.io/)
 
-optimization fabrics for robot behavior design,
-[https://github.com/tud-amr/fabrics](https://github.com/tud-amr/fabrics)
+`2024`
+robocup@home 2024, Hummus Delft, [https://tud-hummus.github.io](https://tud-hummus.github.io)
 
-symbolic and robot-agnostic forward kinematics,
-[https://github.com/maxspahn/forwardkinematics](https://github.com/maxspahn/forwardkinematics)
 
-Generic robotics gymnasium wrapper for pybullet,
-[https://github.com/maxspahn/gym_envs_urdf](https://github.com/maxspahn/gym_envs_urdf)
+## Projects
+
+- __geometric fabrics__ for robot behavior design, 
+    - [https://github.com/tud-amr/fabrics](https://github.com/tud-amr/fabrics)
+- symbolic and robot-agnostic __forward kinematics__, 
+    - [https://github.com/maxspahn/forwardkinematics](https://github.com/maxspahn/forwardkinematics)
+- generic robotics __gymnasium__ wrapper for __pybullet__, 
+    - [https://github.com/maxspahn/gym_envs_urdf](https://github.com/maxspahn/gym_envs_urdf)
+
+## Interests
+- [www.adventofcode.com](www.adventofcode.com)
+- [www.projecteuler.org](www.projecteuler.org)
+- running
+- football
+- cooking
 
 
 
