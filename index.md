@@ -12,7 +12,7 @@ title: Max Spahn's CV
 | <a href="https://www.linkedin.com/in/max-spahn/">LinkedIn</a>
 | <a href="https://www.github.com/maxspahn">GitHub</a>
 | <a href="https://scholar.google.com/citations?user=r5MT42cAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
-De Groene Haven 166, 2627CD, Delft, Netherlands | +49(0)15788221336
+De Groene Haven 166, 2627CD, Delft, Netherlands
 </div>
 
 ## Currently
