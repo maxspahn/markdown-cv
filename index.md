@@ -15,12 +15,6 @@ title: Max Spahn's CV
 De Groene Haven 166, 2627CD, Delft, Netherlands
 </div>
 
-## Currently
-
-__PhD Candidate__ (Graduation 2024) at Delft University of Technology
-
-trajectory generation for high-dimensional robots
-
 ### Specialized in
 
 - numerical __optimization__
@@ -30,26 +24,27 @@ trajectory generation for high-dimensional robots
 
 ## Education
 
+`2020-2024`
+__Delft University of Technology__, PhD. in Robotics
+- trajectory generation for high-dimensional robots
+
 `2013-2019`
-__RWTH Aachen__, Mechanical Engineering, B.Sc. and M.Sc
+__RWTH Aachen__, Mechanical Engineering, B.Sc. and M.Sc.
 
 `2015-2017`
 __École Centrale Supéléc Paris__, M.Sc.
-
-`2020-2024`
-__Delft University of Technology__, PhD. in Robotics
 
 ### Languages
 - fluent in __german__, __english__
 - intermediate in french, dutch
 
 ### Programming
-- main programming language during PhD __python__
-- strong experience in __ROS__ (noetic, melodic)
-- experienced in __C++__, LaTeX, bash, Matlab
-- currently learning Rust
+- strong experience in __ROS__ (noetic, melodic), __python__
+- intermediate experience in __C++__, LaTeX, bash, Matlab
+- basic experience Rust
 
-## Conferences
+## Publications
+### Conferences
 
 `2023`
 __M. Spahn__, J. Alonso-Mora: "Autotuning Symbolic Optimization Fabrics for
@@ -66,7 +61,7 @@ __M. Spahn__, C. Salmi, J. Alonso-Mora: "Local Planner Bench: Benchmarking for L
 __M. Spahn__, B. Brito, J. Alonso-Mora: "Coupled Mobile Manipulation via Trajectory
 Optimization with Free Space Decomposition", ICRA
 
-## Journals
+### Journals
 
 `2023`
 __M. Spahn__, M. Wisse, J. Alonso-Mora: "Dynamic optimization fabrics for motion
@@ -82,10 +77,6 @@ M. Frings, N. Hosters, C. Müller, __M. Spahn__, C. Susen, K. Key, S. Elgeti: Sp
 
 `2023`
 robothon 2023, Platonics Delft, [https://platonics-delft.github.io](https://platonics-delft.github.io/)
-
-`2024`
-robocup@home 2024, Hummus Delft, [https://tud-hummus.github.io](https://tud-hummus.github.io)
-
 
 ## Projects
 
