@@ -3,7 +3,7 @@ layout: cv
 title: Max Spahn's CV
 ---
 # M.Sc. __Max Spahn__
-- robotoscist, software developer for embodied systems
+- roboticist, software developer for embodied systems
 - seeking research position in industry
 
 
@@ -22,6 +22,12 @@ De Groene Haven 166, 2627CD, Delft, Netherlands
 - real-time __trajectory generation__
 - robots in __human-shared environments__
 
+## Post-Doctoral Experience
+
+`2024-2025`
+__Delft University of Technology__, Post-Doctoral Researcher
+- mobile manipulation in human-shared environments
+
 ## Education
 
 `2020-2024`
@@ -35,8 +41,8 @@ __RWTH Aachen__, Mechanical Engineering, B.Sc. and M.Sc.
 __École Centrale Supéléc Paris__, M.Sc.
 
 ### Languages
-- fluent in __german__, __english__
-- intermediate in french, dutch
+- fluent in __German__, __English__
+- intermediate in French, Dutch
 
 ### Programming
 - strong experience in __ROS__ (noetic, melodic), __python__
@@ -71,7 +77,7 @@ generation", IEEE Transactions on Robotics
 C. Meo, G. Franzese, C. Pezzato, __M. Spahn__, P. Lanillos: "Adaptation through prediction: multisensory active inference torque control", IEEE Transactions on Cognitive and Developmental Systems
 
 `2020`
-M. Frings, N. Hosters, C. Müller, __M. Spahn__, C. Susen, K. Key, S. Elgeti: SplinLib: A modern multi-purpose C++ spline library", 2020, Advances in Engineering Software
+M. Frings, N. Hosters, C. Müller, __M. Spahn__, C. Susen, K. Key, S. Elgeti: SplinLib: A modern multipurpose C++ spline library", 2020, Advances in Engineering Software
 
 ## Competitions
 
