@@ -20,6 +20,7 @@ De Groene Haven 166, 2627CD, Delft, Netherlands
 - numerical __optimization__
 - __robotics software__
 - real-time __trajectory generation__
+- adaptive __motion planning__
 - robots in __human-shared environments__
 
 ## Post-Doctoral Experience
@@ -33,12 +34,25 @@ __Delft University of Technology__, Post-Doctoral Researcher
 `2020-2024`
 __Delft University of Technology__, PhD. in Robotics
 - trajectory generation for high-dimensional robots
+- motion planning for mobile manipulation
+- geometric interpretation of motion planning
+- application of differential geometry to reactive motion generation
+- several open source contributions, see [GitHub](www.github.com/maxspahn)
 
 `2013-2019`
 __RWTH Aachen__, Mechanical Engineering, B.Sc. and M.Sc.
+- general studies of mechanical engineering
+- focus on computational fluid dynamics and robotics
+- Bachelor thesis: __A Robust and Predictable Algorithm for the Numerical
+  Solution of the Inverse Kinematics Problem for Serial Robots__
+- Master thesis: __Modeling High Weissenberg number flows in OpenFOAM__
 
 `2015-2017`
 __École Centrale Supéléc Paris__, M.Sc.
+- prestigious double degree program [T.I.M.E.](https://timeassociation.org/)
+- general studies of engineering in French
+- focus on fundamental mathematics
+- several courses on algorithms and computer science
 
 ### Languages
 - fluent in __German__, __English__
