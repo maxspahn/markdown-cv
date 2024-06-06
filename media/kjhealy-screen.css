@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: circle;
 }
 blockquote, q {
 	quotes: none;
@@ -53,7 +53,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 85%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -63,15 +63,16 @@ body {
 
 p {
 	position: relative;
-	left: 33%;
+	left: 5%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+  text-align: left;
+	width: 85%;
 }
 
 code {
 	font: normal normal;
-	font-size: 80%;
+	font-size: 85%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: 'black';
@@ -85,9 +86,9 @@ p code {
 
 ul { 
 	position: relative;
-	left: 33%;
-	width: 65%;
-	margin-bottom: 0.2em;
+	left: 8%;
+	width: 85%;
+	margin-bottom: -0.0em;
 	margin-top: -0.5em;
 }
 
@@ -115,15 +116,16 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 85%;
+	width: 90%;
+	position: relative;
+	left: 5%;
 }
 
 h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	position: relative;
-	left: 33%;
+  margin-top: 1.5em;
 }
 
 h1+p { 
@@ -133,22 +135,27 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 130%;
 	color: #a00;
-	margin-top: 1em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
+	margin-top: 1.0em;
+  margin-bottom: 0.5em;
+	top: 0.0em;
+	text-align: left;
 	width: 20%;
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 110%;
 	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
+	top: 0.0em;
+  margin-top: 0.5em;
+	text-align: left;
+}
+
+h4 {
+  font-size: 1em;
+  text-align: right;
+  margin-bottom: -1.5em;
 }
 
 a {
@@ -163,7 +170,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 5%;
 	color: #cc;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
