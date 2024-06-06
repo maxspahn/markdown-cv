@@ -2,7 +2,7 @@
 layout: cv
 title: Max Spahn's CV
 ---
-# M.Sc. __Max Spahn__
+# Ph.D. __Max Spahn__
 - roboticist, software developer for embodied systems
 - seeking research position in industry
 
@@ -59,27 +59,31 @@ __École Centrale Supéléc Paris__, M.Sc.
 - intermediate in French, Dutch
 
 ### Programming
-- strong experience in __ROS__ (noetic, melodic), __python__
+- strong experience in __ROS__ (noetic, melodic), __python__, git
 - intermediate experience in __C++__, LaTeX, bash, Matlab
 - basic experience Rust
 
 ## Publications
 ### Conferences
 
+`2024`
+__M. Spahn__, C. Pezzat, C. Salmi, R. Dekker, C. Wang, C. Pek, J. Kober, J. Alonso-Mora, C. Hern\'andez Corbato, M. Wisse: "Demonstrating Adaptive Mobile Manipulation in Retail Environments", Robotics: Science and Systems
+
 `2023`
 __M. Spahn__, J. Alonso-Mora: "Autotuning Symbolic Optimization Fabrics for
-Trajectory Generation", ICRA
+Trajectory Generation", IEEE International Conference on Robotics and Automation
 
 `2023`
 S. Bakker, L. Knödler, __M. Spahn__, W. Böhmer, J. Alonso-Mora: "Multi-Robot
-Local Motion Planning Using Dynamic Optimization Fabrics", MRS
+Local Motion Planning Using Dynamic Optimization Fabrics", IEEE International Symposium on Multi-Robot & Multi-Agent Systems
 
 `2022`
-__M. Spahn__, C. Salmi, J. Alonso-Mora: "Local Planner Bench: Benchmarking for Local Motion Planning", Workshop at IROS
+__M. Spahn__, C. Salmi, J. Alonso-Mora: "Local Planner Bench: Benchmarking for Local Motion Planning", Workshop at  IEEE/RSJ International Conference on Intelligent Robots and Systems 
 
 `2021`
 __M. Spahn__, B. Brito, J. Alonso-Mora: "Coupled Mobile Manipulation via Trajectory
-Optimization with Free Space Decomposition", ICRA
+Optimization with Free Space Decomposition", IEEE International Conference on Robotics and Automation
+
 
 ### Journals
 
