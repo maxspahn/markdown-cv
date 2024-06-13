@@ -7,7 +7,7 @@ title: Max Spahn's CV
 <div id="webaddress">
 <a href="max.spahn@protonmail.com">max.spahn@protonmail.com</a>
 | <a href="https://www.linkedin.com/in/max-spahn/">linkedin.com/in/max-spahn</a>
-<br> <a href="https://www.github.com/maxspahn">github.com/maxspahn</a>
+| <a href="https://www.github.com/maxspahn">github.com/maxspahn</a>
 | <a href="https://scholar.google.com/citations?user=r5MT42cAAAAJ&hl=en&oi=ao">Max Spahn @ Google Scholar</a><br>
 Delft, Netherlands
 </div>
@@ -19,7 +19,7 @@ research, I have pioneered novel methods for online motion planning in mobile
 manipulation, utilizing non-linear optimization and Riemannian geometry.
 Committed to the open-source community, I ensure my research and software are
 publicly accessible. Understanding the complexities and challenges of reliable
-robotics, I have actively participated in robotic competitions and am
+robotics, I have actively participated in robotic competitions, and I am
 enthusiastic about joining a competitive team in my next role.
 
 ## Skills
@@ -34,7 +34,7 @@ enthusiastic about joining a competitive team in my next role.
 
 **project management:** leading and contributing to collaborative research projects, supervising several undergraduate students
 
-**languages:** fluent in German, English and French
+**languages:** German, English and French
 
 ## Experience
 
@@ -42,7 +42,7 @@ enthusiastic about joining a competitive team in my next role.
 __Post-Doctoral Researcher @ Delft University of Technology__
 
 - Integrating non-Riemannian trajectory generation into manipulation tasks
-- Leading a group of researchers to develop a live demo of multiple mobile
+- Leading a group of researchers to develop a live demo of <br>multiple mobile
   manipulators in a human-shared environment
 
 
@@ -68,6 +68,8 @@ __École Centrale Supéléc Paris__, M.Sc. (Double Degree [T.I.M.E.](https://tim
 - focus on fundamental mathematics
 - several courses on algorithms and computer science
 
+<br>
+
 ## Publications
 ### Journals
 
@@ -84,7 +86,7 @@ M. Frings, N. Hosters, C. Müller, __M. Spahn__, C. Susen, K. Key, S. Elgeti: Sp
 ### Conferences
 
 #### 2024
-__M. Spahn__, C. Pezzat, C. Salmi, R. Dekker, C. Wang, C. Pek, J. Kober, J. Alonso-Mora, C. Hern\'andez Corbato, M. Wisse: "Demonstrating Adaptive Mobile Manipulation in Retail Environments", Robotics: Science and Systems
+__M. Spahn__, C. Pezzato, C. Salmi, R. Dekker, C. Wang, C. Pek, J. Kober, J. Alonso-Mora, C. Hern\'andez Corbato, M. Wisse: "Demonstrating Adaptive Mobile Manipulation in Retail Environments", Robotics: Science and Systems
 
 #### 2023
 __M. Spahn__, J. Alonso-Mora: "Autotuning Symbolic Optimization Fabrics for
@@ -123,10 +125,7 @@ Optimization with Free Space Decomposition", IEEE International Conference on Ro
 - [https://platonics-delft.github.io](https://platonics-delft.github.io/)
 
 ## Interests
-- learning from my child
-- running
-- football
-- cooking
+- learning from my child, running, football, vegan cooking
 
 
 

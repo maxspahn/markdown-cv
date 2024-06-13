@@ -124,8 +124,8 @@ h1,h2,h3,h4 {
 h1 {
 	text-align: left;
 	font-size: 3em;
-	line-height: 1em;
-  margin-top: 1.5em;
+	line-height: 0.9em;
+  margin-top: 1.0em;
 }
 
 h1+p { 
@@ -135,9 +135,9 @@ h1+p {
 }
 
 h2 {
-	font-size: 130%;
+	font-size: 180%;
 	color: #a00;
-	margin-top: 1.0em;
+	margin-top: 0.8em;
   margin-bottom: 0.5em;
 	top: 0.0em;
 	text-align: left;
@@ -145,7 +145,7 @@ h2 {
 }
 
 h3 {
-	font-size: 110%;
+	font-size: 140%;
 	line-height: 2em; 
 	top: 0.0em;
   margin-top: 0.5em;
@@ -168,7 +168,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: 0.8em;
 	position: relative;
 	left: 5%;
 	color: #cc;
