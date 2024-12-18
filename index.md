@@ -48,8 +48,7 @@ __Post-Doctoral Researcher @ Delft University of Technology__
 
 #### 2020-2024
 __Ph.D. in Robotics @ Delft University of Technology__
-- Thesis: __Trajectory Generation beyond Model Predictive Control__ (Defense
-  November 2024)
+- Thesis: __Trajectory Generation for Mobile Manipulators with Differential Geometry__ (Defense: 11.12.2024)
 - Reactive trajectory generation for high-dimensional robots
 - Using the geometry of the robot's configuration space to generate consistent
 - Combining several research projects into a proof-of-concept demonstration in
