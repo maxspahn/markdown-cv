@@ -9,7 +9,7 @@ title: Max Spahn's CV
 | <a href="https://www.linkedin.com/in/max-spahn/">linkedin.com/in/max-spahn</a>
 | <a href="https://www.github.com/maxspahn">github.com/maxspahn</a>
 | <a href="https://scholar.google.com/citations?user=r5MT42cAAAAJ&hl=en&oi=ao">Max Spahn @ Google Scholar</a><br>
-Delft, Netherlands
+Freiburg, Germany
 </div>
 
 ## About
