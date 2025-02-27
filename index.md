@@ -38,7 +38,13 @@ enthusiastic about joining a competitive team in my next role.
 
 ## Experience
 
-#### 2024-2025
+#### 2025-
+__Research Scientist at ABB AG__
+
+- Researching new technologies for motion planning and control for industrial robots
+- Integration of product-relevant features into software stacks for industrial robots
+
+#### 04/2024-12/2024
 __Post-Doctoral Researcher @ Delft University of Technology__
 
 - Integrating non-Riemannian trajectory generation into manipulation tasks
@@ -71,6 +77,12 @@ __École Centrale Supéléc Paris__, M.Sc. (Double Degree [T.I.M.E.](https://tim
 
 ## Publications
 ### Journals
+
+#### 2025
+C Pezzato, C Salmi, E Trevisan, __M Spahn__, J Alonso-Mora, CH Corbato: "Sampling-based
+model predictive control leveraging parallelizable physics simulations", IEEE
+Robotics and Automation Letters
+
 
 #### 2023
 __M. Spahn__, M. Wisse, J. Alonso-Mora: "Dynamic optimization fabrics for motion
