@@ -44,7 +44,7 @@ __Research Scientist at ABB AG__
 - Researching new technologies for motion planning and control for industrial robots
 - Integration of product-relevant features into software stacks for industrial robots
 
-#### 04/2024-12/2024
+#### 2024
 __Post-Doctoral Researcher @ Delft University of Technology__
 
 - Integrating non-Riemannian trajectory generation into manipulation tasks
